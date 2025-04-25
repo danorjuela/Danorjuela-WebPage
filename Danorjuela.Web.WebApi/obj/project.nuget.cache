@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DsN1/vSImymL6F831xZKm3BQKq8qJ8Wnzw2BPi9lw2Rqmy1bVusuOxStl4WtbxrilUenhZLi6b9CfxI6G7iFxg==",
+  "success": true,
+  "projectFilePath": "/Users/dan/Projects/Danorjuela.Web/Danorjuela.Web.WebApi/Danorjuela.WebPage.csproj",
+  "expectedPackageFiles": [
+    "/Users/dan/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/Users/dan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
