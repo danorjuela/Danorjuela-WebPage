@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1706.14
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Danorjuela.WebPage", "Danorjuela.Web.WebApi\Danorjuela.WebPage.csproj", "{5F8BDFD9-A9CF-4698-ADF7-E35F3E1252EF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Danorjuela.Web.FrontEnd", "Danorjuela.Web.FrontEnd\Danorjuela.Web.FrontEnd.esproj", "{7FCC8475-A8A5-24B2-542B-3DAC60FBA000}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{5F8BDFD9-A9CF-4698-ADF7-E35F3E1252EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F8BDFD9-A9CF-4698-ADF7-E35F3E1252EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F8BDFD9-A9CF-4698-ADF7-E35F3E1252EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCC8475-A8A5-24B2-542B-3DAC60FBA000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCC8475-A8A5-24B2-542B-3DAC60FBA000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCC8475-A8A5-24B2-542B-3DAC60FBA000}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7FCC8475-A8A5-24B2-542B-3DAC60FBA000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCC8475-A8A5-24B2-542B-3DAC60FBA000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCC8475-A8A5-24B2-542B-3DAC60FBA000}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
